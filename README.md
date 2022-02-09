@@ -1,5 +1,5 @@
-# gradama
-Graduate Advanced Macroeconomic Analysis
+# mt2022
+Macroeconomic Theory 2022
 
 ## Notes for students
 
@@ -8,5 +8,5 @@ Graduate Advanced Macroeconomic Analysis
 
 ## Lecture videos and notebooks/slides
 
-* [Get them here](https://echo360.net.au/section/86242cff-6026-4db9-a60c-d310057a68d8/home) on ANU ECHO360
-* Corresponding PDF-slides/notebook-slides are on this repository
+* [Get them here](https://echo360.net.au/section/348da2d9-683b-4145-9dc7-17a0d6673fe2/home) on ANU ECHO360
+* Corresponding PDF-slides/notebook-slides are on this GitHub repository
