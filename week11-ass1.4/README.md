@@ -53,7 +53,7 @@ You may form a group of no more than FOUR persons.
 
     * You are to also provide a critical assessment of the author's method(s) and their insights in general.
 
-    * A useful tip for demonstrating *critical reading and comprehension*: Imagine trying to do a "tear down" of the whole paper. What are the key questions? What makes them interesting for the authors? Does the theory/empirical method serve a greater purpose? Can you replicate or at least map out the steps, essential "tricks", or methods that "make the paper tick"? Now explain how these things work to your nonna who has a university bachelor's degree from 1956. (You'll have to be more profound and incisive in your writing than just summarizing punchlines on a popular-readership blog.)
+    * A useful tip for demonstrating *critical reading and comprehension*: Imagine trying to do a "tear down" of the whole paper. What are the key questions? What makes them interesting for the authors? Does the theory/empirical method serve a greater purpose? Can you replicate or at least map out the steps, essential "tricks", or methods that "make the paper tick"? Now explain how these things work to your nonna who has a bachelor's degree from *l'École Polytechnique* in 1956. (You'll have to be more profound and incisive in your writing than just summarizing punchlines on a popular-readership blog.)
 
 * 20% max:
 
