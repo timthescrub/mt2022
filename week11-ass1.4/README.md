@@ -67,4 +67,4 @@ You may form a group of no more than FOUR persons.
 
     * Care and attention to detail.
 
-    * Thought for the reader.
+    * Thought for the reader and live audience in your presentation structure and style.
