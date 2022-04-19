@@ -19,7 +19,7 @@ You may form a group of no more than FOUR persons.
 
 * PDF facsimiles of Jupyter Notebooks and/or any other required PDF work to be submitted through WATTLE and Turnitin (for plagiarism checking).
 
-* Where instructed, use professionally written and typeset documents in $\LaTeX$.
+* Where instructed, use professionally written and typeset documents in LaTeX.
 
 * If indicated and permitted, you may work in a group of no more than 4 students.
 
