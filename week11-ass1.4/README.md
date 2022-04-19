@@ -44,7 +44,7 @@ You may form a group of no more than FOUR persons.
 
     * Mindless, mechanical, and verbatim reproduction of mathematics or formal proofs that are already in the paper is discouraged.
 
-    * Your task is to elucidate and expound on the main setup, the mechanisms at work, and how they produce the paper author's insights. 
+    * Your task is to elucidate and expound on the main setup, the mechanisms at work, and how they produce key insights. Where possible use plain English in your exposition. If mathematics is required, be sure to define notation and context, and you must still explain what the expressions mean.
 
     * You are to also provide a critical assessment of the author's method(s) and their insights in general.
 
