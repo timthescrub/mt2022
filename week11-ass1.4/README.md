@@ -7,7 +7,7 @@ The purpose is to help you develop critical reading, writing, and oral communica
 
 You must select a paper specified in the listing of ``papers``.
 
-* First in, best dressed: Whoever or whichever team is first to pick a paper from the folder **Unallocated Papers** for Assignment 1.4 will get to work on it. To stake your claim, be the first to post your choice on the WATTLE Discussion Forum. 
+* First in, best dressed: Whoever or whichever team is first to pick a paper from the folder ``Unallocated Papers`` for Assignment 1.4 will get to work on it. To stake your claim, be the first to post your choice on the WATTLE Discussion Forum. 
 
 You may form a group of no more than FOUR persons. 
 
