@@ -25,20 +25,25 @@ You may form a group of no more than FOUR persons.
 
 ## Restrictions on written report length
 
-* Maximum 1 page: Quick summary of (i) Issue/Question raised in the paper; (ii) Key Features of the Model; and (iii) Results of the paper.
+* Maximum 1 page: 
+   * Quick summary of (i) Issue/Question raised in the paper; (ii) Key Features of the Model; and (iii) Results of the paper.
 
-* Maximum 4 pages: Describe and explain key aspects of the model, equilibrium concept, characterizations and/or solutions. You must also demonstrate an understanding of these elements (e.g. by explaining the ideas of proofs to main results, and/or, how quantitative/numerical results were obtained).
+* Maximum 4 pages: 
+   * Describe and explain key aspects of the model, equilibrium concept, characterizations and/or solutions. You must also demonstrate an understanding of these elements (e.g. by explaining the ideas of proofs to main results, and/or, how quantitative/numerical results were obtained).
 
-* Maximum 2 pages: Summarize and explain economic results in more detail.
+* Maximum 2 pages: 
+   * Summarize and explain economic results in more detail.
 
-* Maximum 1 page: Your comments about the paper: modeling assumptions, correctness, suggestions for alternatives or extensions.
+* Maximum 1 page: 
+   * Your comments about the paper: modeling assumptions, correctness, suggestions for alternatives or extensions.
 
-* No page limit: References cited in your report.
+* No page limit: 
+   * References cited in your report.
 
 
 ## Grading rubric
 
-* 60% : 
+* 60% max: 
 
     * Critical analysis and precise explanation of the substance of a chosen paper.
 
@@ -48,7 +53,7 @@ You may form a group of no more than FOUR persons.
 
     * You are to also provide a critical assessment of the author's method(s) and their insights in general.
 
-* 20% :
+* 20% max:
 
     * Oral presentation and quality of slides - clarity and organization of thought.
 
@@ -56,7 +61,7 @@ You may form a group of no more than FOUR persons.
 
     * Ability to manage time and emphasize pertinent content.
 
-* 20% :
+* 20% max:
 
     * Organization and clear writing.
 
