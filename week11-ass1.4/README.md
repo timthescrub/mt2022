@@ -1,11 +1,11 @@
-# Critical Reading and Research Communication Task
+# Ass 1-4: Critical Reading and Research Communication Task
 
 This assessment is the final part of your ongoing assessment in this course.
 The purpose is to help you develop critical reading, writing, and oral communication skills in the context of macroeconomic modeling and related issues.
 
 ## What to do
 
-You must select a paper specified in the WATTLE listing of papers for Assignment 1.4.
+You must select a paper specified in listing of papers.
 
 * First in, best dressed: Whoever or whichever team is first to pick a paper from the folder **Unallocated Papers** for Assignment 1.4 will get to work on it. To stake your claim, be the first to post your choice on the WATTLE Discussion Forum. 
 
@@ -51,6 +51,8 @@ You may form a group of no more than FOUR persons.
 * 20% :
 
     * Oral presentation and quality of slides - clarity and organization of thought.
+
+    * Include final slides with your written report in your submission for assessment.
 
     * Ability to manage time and emphasize pertinent content.
 
