@@ -23,7 +23,7 @@ You may form a group of no more than FOUR persons.
 
 * If indicated and permitted, you may work in a group of no more than 4 students.
 
-## Restrictions on written report length:
+## Restrictions on written report length
 
 * Maximum 1 page: Quick summary of (i) Issue/Question raised in the paper; (ii) Key Features of the Model; and (iii) Results of the paper.
 
@@ -36,7 +36,7 @@ You may form a group of no more than FOUR persons.
 * No page limit: References cited in your report.
 
 
-## Grading rubric:
+## Grading rubric
 
 * 60% : 
 
